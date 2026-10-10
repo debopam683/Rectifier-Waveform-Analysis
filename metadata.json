@@ -1,0 +1,6 @@
+{
+  "name": "Power Electronics Circuit Simulator",
+  "description": "Interactive visual simulation and real-time waveform analysis for power electronics rectifiers and converters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
